@@ -152,3 +152,11 @@ I’d love to collaborate on:
 
 > ⭐ *Focused on learning, consistency, and long‑term growth in tech.*
 
+
+# 🚀 WASIF ALI – GitHub Activity Game
+
+<p align="center">
+  <img src="assets/space-shooter.gif" alt="GitHub Space Shooter" />
+</p>
+
+
