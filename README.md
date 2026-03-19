@@ -156,7 +156,7 @@ I’d love to collaborate on:
 # 🚀 WASIF ALI – GitHub Activity Game
 
 <p align="center">
-  <img src="assets/space-shooter.gif" alt="GitHub Space Shooter" />
+  <img src="space-shooter.gif" alt="GitHub Space Shooter" />
 </p>
 
 
